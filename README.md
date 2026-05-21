@@ -41,4 +41,9 @@ Everyday Functioning Prompts:
 
   OUTPUT:
 
+  [Exp-4 Prompt.pdf](https://github.com/user-attachments/files/28097831/Exp-4.Prompt.pdf)
+
+
   RESULT:
+  Thus created succesfullyy..!!
+  
